@@ -1,4 +1,4 @@
-name: Build and Upload LaZagne Release
+name: Build and Upload LaZagne Release - linux
 
 on:
   push:
